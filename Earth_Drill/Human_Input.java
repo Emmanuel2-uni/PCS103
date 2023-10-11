@@ -25,7 +25,7 @@ public class Human_Input {
         // Use this after nextInt and if the next input is going to be a String variable.
         input.nextLine();
 
-        System.out.print("Input name: ");
+        System.out.print("Input eyecolor: ");
         eyecolor = input.nextLine();
 
         input.close();
